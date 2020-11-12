@@ -5,18 +5,18 @@ https://www.figma.com/file/FKWYLrVP4mFCWZDMqFRAl0/shoes.com?node-id=0%3A1
 <br><br>
 
 ## Resources information
-### Icons use
+### Icon
 https://feathericons.com
 
 ### Images link
-1. https://unsplash.com/photos/SxAXphIPWeg
-2. https://unsplash.com/photos/PqbL_mxmaUE
-3. https://unsplash.com/photos/a-QH9MAAVNI
-4. https://unsplash.com/photos/6zO5VKogoZE
-5.  https://unsplash.com/photos/4Scx2VEv6C0
-6. https://unsplash.com/photos/1BI-ar91C7U
-7. https://unsplash.com/photos/55PEl8GQ-zU
-8. https://unsplash.com/photos/164_6wVEHfI
+- https://unsplash.com/photos/SxAXphIPWeg
+- https://unsplash.com/photos/PqbL_mxmaUE
+- https://unsplash.com/photos/a-QH9MAAVNI
+- https://unsplash.com/photos/6zO5VKogoZE
+- https://unsplash.com/photos/4Scx2VEv6C0
+- https://unsplash.com/photos/1BI-ar91C7U
+- https://unsplash.com/photos/55PEl8GQ-zU
+- https://unsplash.com/photos/164_6wVEHfI
 <br><br>
 
 ## Requirements
