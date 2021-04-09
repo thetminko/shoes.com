@@ -3,10 +3,10 @@ module.exports = {
     // removeDeprecatedGapUtilities: true,
     // purgeLayersByDefault: true,
   },
-  purge: ['./src/**/*.html', './src/**/*.tsx', './src/App.tsx', ],
+  purge: ['./src/**/*.html', './src/**/*.tsx', './src/App.tsx'],
   theme: {
-    extend: {},
+    extend: {}
   },
   variants: {},
-  plugins: [],
-}
+  plugins: []
+};

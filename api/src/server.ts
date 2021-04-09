@@ -7,7 +7,7 @@ const app: Application = express();
 
 app.use(apiController);
 
-app.listen(3000, async () => {
+app.listen(4000, async () => {
   await initSequelize();
-  console.log('Shoes.com api listening on port 3000!');
+  console.log('Shoes.com api listening on port 4000!');
 });
