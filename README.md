@@ -1,5 +1,17 @@
 # shoes.com
 
+## Setup
+1. Run sql/init.sql in your database server
+
+### In api folder
+1. npm install
+2. Create a new file called db.json in api/src folder and copy the contents of api/src/db.example.json and change to your database credentials
+3. Start server using `npm start` or `npm run watch`
+
+### In dashboard folder
+1. npm install
+2. Start server using `npm start`
+
 ## Mock up screen
 https://www.figma.com/file/FKWYLrVP4mFCWZDMqFRAl0/shoes.com?node-id=0%3A1
 <br><br>
@@ -30,6 +42,7 @@ https://feathericons.com
 ### API
 - ExpressJS
 - Typescript
+- sequelize-typescript
 
 <br>
 

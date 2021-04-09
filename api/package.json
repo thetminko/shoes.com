@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "tsc": "tsc",
-    "start": "npm run tsc && node build/server.js",
-    "start-dev": "ts-node ./src/server.ts",
+    "build-run": "npm run tsc && node build/server.js",
+    "start": "ts-node ./src/server.ts",
     "watch": "nodemon ./src/**/*.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

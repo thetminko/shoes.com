@@ -1,15 +1,15 @@
 import { Sequelize } from 'sequelize-typescript';
+import db from '../db.json';
 import allEntities from '../entities';
-
 let sequelize: Sequelize;
 
 export const initSequelize = async (): Promise<void> => {
   sequelize = new Sequelize({
     dialect: 'mysql',
     host: '127.0.0.1',
-    port: 43306,
-    username: 'root',
-    password: 'root_password',
+    port: 3306,
+    username: db.username,
+    password: db.password,
     database: 'shoes',
     define: {
       freezeTableName: true,
