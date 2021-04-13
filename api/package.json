@@ -7,7 +7,7 @@
     "tsc": "tsc",
     "build-run": "npm run tsc && node build/server.js",
     "start": "ts-node ./src/server.ts",
-    "watch": "nodemon ./src/**/*.ts",
+    "watch": "nodemon ./src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

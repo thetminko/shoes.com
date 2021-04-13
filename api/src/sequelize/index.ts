@@ -26,6 +26,7 @@ export const initSequelize = async (): Promise<void> => {
     timezone: '+08:00'
   });
 
+  sequelize.sync();
   sequelize.addModels(allEntities);
   await sequelize.authenticate();
 };
