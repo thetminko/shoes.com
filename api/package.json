@@ -7,12 +7,13 @@
     "tsc": "tsc",
     "build-run": "npm run tsc && node build/server.js",
     "start": "ts-node ./src/server.ts",
-    "watch": "nodemon ./src/**/*.ts",
+    "watch": "nodemon ./src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.0",
     "mysql2": "^2.2.5",
     "reflect-metadata": "^0.1.13",
